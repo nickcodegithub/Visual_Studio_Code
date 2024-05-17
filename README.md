@@ -8,7 +8,7 @@ Welcome to the Visual_Studio_Code repository! This repo is your one-stop-shop fo
 
 ### [Appearance](path_to_themes_page)
 
--   Explore a variety of [color themes](#vs-code-color-themes) to enhance your coding experience.
+-   Explore a variety of [color themes](#color-themes) to enhance your coding experience.
 -   Customize your VS Code settings to create a personalized look and feel.
 
 ### [Keyboard Shortcuts](path_to_keyboard_shortcuts_page)
@@ -23,7 +23,7 @@ Welcome to the Visual_Studio_Code repository! This repo is your one-stop-shop fo
 
 
 
-# VS Code Color Themes
+# Color Themes
 
 As developers, we spend countless hours in our text editors, and having the right color theme can make all the difference. A good color theme can not only reduce eye strain but also provide a fresh and stimulating environment that can boost productivity.
 
@@ -35,7 +35,7 @@ A good color theme should:
 -   Provide clear and distinct syntax highlighting for various code elements.
 -   Create a pleasant and motivating environment that enhances focus and productivity.
 
-## VS Code Color Themes
+## My Favourite VS Code Color Themes
 
 Here are some of the color themes for Visual Studio Code that I personally prefer:
 
